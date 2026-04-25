@@ -1,0 +1,44 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of March 15, 2024.
+
+PARTIES
+Client: Acme Corporation ("Client")
+Provider: Tech Solutions Inc. ("Provider")
+
+PAYMENT TERMS
+The client shall pay within 15 days of receiving the invoice.
+Late payments will incur a penalty of 8% per month.
+
+TERM AND TERMINATION
+This agreement shall remain in effect for 24 months from the effective date.
+Termination requires 30 days written notice from either party.
+Provider may terminate immediately for material breach.
+Either party may terminate for convenience with notice.
+
+LIMITATION OF LIABILITY
+Provider's total liability shall not exceed $50,000 under any circumstances.
+Neither party shall be liable for indirect or consequential damages.
+These liability limits apply regardless of the cause of action.
+
+SCOPE OF WORK
+Provider agrees to deliver software development services as outlined in Schedule A.
+All deliverables must meet the acceptance criteria defined in Appendix B.
+Provider shall maintain a dedicated team of at least 5 engineers.
+
+INTELLECTUAL PROPERTY
+All work product created under this agreement is work-for-hire.
+Client owns all intellectual property upon full payment.
+
+CONFIDENTIALITY
+Both parties agree to maintain strict confidentiality of all shared information.
+This obligation shall survive for 5 years after agreement termination.
+Confidentiality obligations survive termination of this agreement indefinitely for trade secrets.
+
+GOVERNING LAW
+This agreement shall be governed by the laws of the State of New York.
+Disputes shall be resolved through binding arbitration in New York City.
+
+INDEMNIFICATION
+Client shall indemnify Provider against all third-party claims arising from Client's misuse.
+Provider shall indemnify Client against claims arising from Provider's gross negligence.

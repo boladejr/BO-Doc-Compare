@@ -1,0 +1,13 @@
+(Step 1) Download Python
+
+Setup for Windows (Run CMD once in Project Folder)
+(Step 2) python3 -m venv .venv
+(Step 3) .venv\Scripts\activate
+(Step 4) pip install -r requirements.txt
+
+Run app (normal)
+Double-click: (Step 1) run_app.vbs
+
+Stop app (normal)
+Press :(Step 1) Win + R
+Type  :(Step 2) cmd /c taskkill /IM python.exe /F
