@@ -1,4 +1,4 @@
-# 📄 DocDiff — Intelligent Document Comparison Tool
+# 📄 DocDiff — Supplier contract risk analysis Tool
 
 A polished local tool that compares two versions of a document and produces a **human-readable, color-coded summary of meaningful changes** — with smart detection of material changes like numbers, dates, monetary values, and legal terms.
 
